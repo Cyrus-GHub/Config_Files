@@ -1,0 +1,29 @@
+[custom0]
+binding='<Shift><Control>Escape'
+command='gnome-system-monitor'
+name='System Monitor'
+
+[custom1]
+binding='<Alt><Super>r'
+command='obs'
+name='OBS'
+
+[custom2]
+binding='<Super>w'
+command='warp-cli connect'
+name='Warp On'
+
+[custom3]
+binding='<Shift><Super>w'
+command='warp-cli disconnect'
+name='Warp Off'
+
+[custom4]
+binding='<Super>period'
+command='gnome-characters'
+name='Characters'
+
+[custom5]
+binding='<Super>s'
+command='gnome-control-center'
+name='Settings'
