@@ -1,0 +1,227 @@
+matches:
+  # Simple text replacement
+  - trigger: ".name"
+    replace: "Cyrus Bhandari"
+
+  - trigger: "email1"
+    replace: "itscyrusb@gmail.com"
+
+  - trigger: "email2"
+    replace: "20051203@kiit.ac.in"
+
+  - trigger: "email3"
+    replace: "cyrus.kiitecell@gmail.com"
+
+  - trigger: "email4"
+    replace: "cyrusbhandari09@gmail.com"
+
+  - trigger: "email5"
+    replace: "cyrusbackupacc@gmail.com"
+
+  - trigger: "email6"
+    replace: "mindfulmailer@gmail.com"
+
+  - trigger: "no1"
+    replace: "7042649334"
+
+  - trigger: "no2"
+    replace: "8191034246"
+
+  - trigger: ".aadhar"
+    replace: "697825386457"
+
+  - trigger: ".acc1"
+    replace: "39326926375"
+
+  - trigger: ".ifsc1"
+    replace: "SBIN0000700"
+
+  - trigger: ".acc2"
+    replace: "76016066812"
+
+  - trigger: ".ifsc2"
+    replace: "SBIN0RRUTGB"
+
+  - trigger: ".pan"
+    replace: "FBOPB6478R"
+
+  - trigger: ".uni"
+    replace: "Kalinga Institute of Industrial Technology"
+
+  - trigger: ".roll"
+    replace: "20051203"
+
+  - trigger: ".atd"
+    replace: "20051203 - Cyrus Bhandari"
+
+  - trigger: ".address1"
+    replace: "c/o SS Bhandari, House-378, Near Head Post Office, Kharkot, Pithoragarh, Uttarakhand, 262501, India"
+
+  - trigger: ".address2"
+    replace: "4A-166, KP14, Campus 12, Kiit Road, Patia, Bhubanewsar, Odisha, 751024, India"
+
+  - trigger: ".linkedin"
+    replace: "linkedin.com/in/cyrusbh/"
+
+  - trigger: ".g1"
+    replace: "https://mail.google.com/mail/u/0/#inbox"
+
+  - trigger: ".g2"
+    replace: "https://mail.google.com/mail/u/1/#inbox"
+
+  - trigger: ".g3"
+    replace: "https://mail.google.com/mail/u/2/#inbox"
+
+  - trigger: ".g4"
+    replace: "https://mail.google.com/mail/u/3/#inbox"
+
+  - trigger: ".g5"
+    replace: "https://mail.google.com/mail/u/4/#inbox"
+
+  - trigger: ".g6"
+    replace: "https://mail.google.com/mail/u/5/#inbox"
+
+  - trigger: ".k1"
+    replace: "https://keep.google.com/u/0/"
+
+  - trigger: ".k2"
+    replace: "https://keep.google.com/u/1/"
+
+  - trigger: ".k3"
+    replace: "https://keep.google.com/u/2/"
+
+  - trigger: ".k4"
+    replace: "https://keep.google.com/u/3/"
+
+  - trigger: ".d1"
+    replace: "https://docs.google.com/document/u/0/"
+
+  - trigger: ".d2"
+    replace: "https://docs.google.com/document/u/1/"
+
+  - trigger: ".d3"
+    replace: "https://docs.google.com/document/u/2/"
+
+  - trigger: ".gdr"
+    replace: "https://drive.google.com/drive/u/2/my-drive"
+
+  - trigger: ".gcl"
+    replace: "https://classroom.google.com/u/1/h"
+
+  - trigger: ".gph"
+    replace: "https://photos.google.com/u/4/"
+
+  - trigger: ".browsersync"
+    replace: "browser-sync start --server --directory --files \"**/*\""
+
+  - trigger: ".wifi"
+    replace: "https://customer.ukdinternet.com/customer_portal"
+
+  - trigger: ".upcl1"
+    replace: "PT11117001513"
+
+  - trigger: ".upcl2"
+    replace: "PT11117001514"
+
+  - trigger: ".upcl3"
+    replace: "42100478239"
+
+  - trigger: ".ujs1"
+    replace: "5022536"
+
+  - trigger: "inr"
+    replace: "â‚¹"
+
+  - trigger: "hbd"
+    replace: "ðŸ¥³ðŸŽ‰Happy Birthday ðŸŽ‰ðŸ¥³"
+
+  - trigger: ".e1"
+    replace: "ðŸ˜‚"
+
+  - trigger: ".e2"
+    replace: "ðŸ™‚"
+
+  - trigger: ".e3"
+    replace: "ðŸ™ƒ"
+
+  - trigger: ".e4"
+    replace: "ðŸ‘€"
+
+  - trigger: "mf."
+    replace: "( Í¡âš† ÍœÊ– Í¡âš†)â•­âˆ©â•®"
+
+  - trigger: ".cx"
+    replace: "chmod +x *.sh"
+
+  - trigger: ".psvm"
+    replace: "public static void main(String[] s)"
+
+  - trigger: "suin"
+    replace: "sudo nala install "
+
+  - trigger: "supd"
+    replace: "sudo nala update"
+
+  - trigger: "supg"
+    replace: "sudo nala upgrade"
+
+  - trigger: "nixi"
+    replace: "nix-env -iA nixpkgs."
+
+  - trigger: "upi1"
+    replace: "itscyrusb@oksbi"
+
+  - trigger: "upi2"
+    replace: "itscyrusb-1@oksbi"
+
+  - trigger: "upi3"
+    replace: "7042649334736@paytm"
+
+  - trigger: ".ww"
+    replace: "web.whatsapp.com"
+
+  - trigger: ".te"
+    replace: "web.telegram.org/k/"
+
+  - trigger: ".dis"
+    replace: "discord.com/channels/@me"
+
+  - trigger: ".figma"
+    replace: "figma.com/files/recent?fuid=942773370100668588"
+
+  - trigger: ".spo"
+    replace: "open.spotify.com"
+
+  - trigger: "robocopy."
+    replace: "/e /r:0 /w:0 /COPY:DAT /DCOPY:DAT /MT:8 /NFL /NDL /nc /ns /np"
+
+  - trigger: ".*"
+    replace: "â€¢"
+
+  - trigger: ".kiitwifi"
+    replace: "c#tLH752"
+
+  - trigger: ".sap"
+    replace: "https://kiitportal.kiituniversity.net/irj/portal/"
+
+  - trigger: ".warp"
+    replace: "warp-cli connect"
+
+  - trigger: ".gb"
+    replace: "/home/cyrus/Main/Misc/Geekbench-5.4.5-Linux/geekbench5"
+
+  - trigger: ".gh"
+    replace: "https://github.com/Cyrus-GHub"
+
+  - trigger: ".tasks"
+    replace: "https://tasksboard.com/app"
+
+  - trigger: "warps"
+    replace: "curl https://www.cloudflare.com/cdn-cgi/trace/"
+
+  - trigger: ".cr"
+    replace: "docs.craft.do"
+
+  - trigger: ".tt"
+    replace: "https://docs.craft.do/editor/d/c08b237b-c030-9185-8971-6e0576c39930/7B30143D-A434-465E-97A3-49BC7CE9A28C"
+toggle_key: OFF
